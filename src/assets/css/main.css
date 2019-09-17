@@ -2,5 +2,6 @@
 @tailwind components;
 
 @import url('https://fonts.googleapis.com/css?family=DM+Serif+Display&display=swap');
+@import url('../fonts/inter/inter.css');
 
 @tailwind utilities;
