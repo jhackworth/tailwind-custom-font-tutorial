@@ -1,6 +1,6 @@
 <template>
   <div class="pt-24 text-center">
-		<h1 class="text-4xl">A Luxurious Headline</h1>
+		<h1 class="text-4xl font-dm-serif">A Luxurious Headline</h1>
 		<p>Supporting text goes here</p>
 	</div>
 </template>
