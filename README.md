@@ -1,4 +1,5 @@
-# v2
+# Vue + Tailwind Boilerplate
+This repo is meant to be a repository for a tutorial on how to use custom fonts with Tailwind CSS. See j22h.com for the full tutorial.
 
 ## Project setup
 ```
@@ -10,20 +11,5 @@ yarn install
 yarn run serve
 ```
 
-### Compiles and minifies for production
-```
-yarn run build
-```
-
-### Run your tests
-```
-yarn run test
-```
-
-### Lints and fixes files
-```
-yarn run lint
-```
-
-### Customize configuration
+### Customize Vue Configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
